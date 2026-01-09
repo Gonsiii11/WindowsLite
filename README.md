@@ -48,7 +48,7 @@ Se ha realizado una limpieza profunda de aplicaciones preinstaladas:
 ## 🚀 Integraciones Post-Setup
 El sistema incluye una fase de post-instalación para dejar el equipo listo para trabajar:
 
-1.  **Archivos:** Instalación automática de **WinRAR** y **7-Zip**.
+1.  **Archivos:** Instalación automática de **WinRAR** , **7-Zip** y el Emulador **RetroArch con dos juegos**.
 2.  **Navegador:** Instalación de **Brave Browser** como navegador predeterminado.
 3.  **Personalización:** * Aplicación de un fondo de pantalla personalizado.
     * Creación de accesos directos en el escritorio para las aplicaciones instaladas.
